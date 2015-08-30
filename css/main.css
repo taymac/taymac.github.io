@@ -99,6 +99,12 @@ textarea {
        margin: 60px auto;
        width: 80%;
    }
+   
+   nav {
+      display: flex;
+      justify-content: space-between;
+   }
+   
    nav ul, footer ul {
        font-family: 'Lato', sans-serif;
        padding: 0px;
@@ -113,13 +119,10 @@ textarea {
        margin-right: 20px;
    }
    
-   #headerleft {
-      font-size: 24px;
+   #headerleft a{
       color: #000;
    }
-   #headerright {
-     float: right;
-   }
+
    
    a {
        text-decoration: none;

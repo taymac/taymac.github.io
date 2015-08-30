@@ -113,9 +113,12 @@ textarea {
        margin-right: 20px;
    }
    
-   #headeright {
+   #headeleft {
       font-size: 24px;
       color: #000;
+   }
+   #headerright {
+     float: right;
    }
    
    a {
@@ -163,9 +166,7 @@ textarea {
        list-style: none;
    }
 
-   #right {
-     float: right;
-   }
+
 
 
 /* ==========================================================================

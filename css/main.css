@@ -134,7 +134,6 @@ textarea {
    h1 {
        font-size: 3em;
        font-family: 'Lato', sans-serif;
-       text-align: center;
    }
    p {
        font-size: 1.2em;
@@ -144,10 +143,12 @@ textarea {
    }
    
    p.meta {
-      font-size: 1.5em;
+    font-size: .8em;
+    margin: 0;
+    color: #aaa;
    }
    
-   p.meta:after {
+   .meta:after {
     border-bottom: 1px solid #333;
     content: "";
     display: block;

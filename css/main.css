@@ -133,6 +133,14 @@ textarea {
       font-size: 1.5em;
    }
    
+   p.meta:after {
+    border-bottom: 1px solid #333;
+    content: "";
+    display: block;
+    margin-bottom: 40px;
+    padding-bottom: 30px;
+    width: 25%;
+   
    footer {
        border-top: 1px solid #d5d5d5;
        font-size: .8em;

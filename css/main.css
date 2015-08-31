@@ -96,8 +96,8 @@ textarea {
    ========================================================================== */
 
    body {
-       margin: 60px auto;
-       width: 80%;
+       margin: 20px auto;
+       width: 85%;
    }
    
    nav {
@@ -117,6 +117,16 @@ textarea {
    nav ul li, footer ul li {
        display: inline;
        margin-right: 20px;
+   }
+   
+   .blog-index ul {
+      list-style: none;
+   }
+   
+   .blog-index a {
+      font-size: 3em;
+      font-weight: bold;
+      color: #000;
    }
    
    #headerleft a{

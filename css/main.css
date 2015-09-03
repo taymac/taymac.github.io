@@ -100,9 +100,14 @@ textarea {
        width: 85%;
    }
    
-   nav {
-      display: flex;
-      justify-content: space-between;
+   #headerleft {
+      text-align: center;
+      font-size: 3em;
+   }
+   
+   #headerright {
+      text-align: center;
+      font-size: 1.5em;
    }
    
    nav ul, footer ul {
@@ -110,7 +115,6 @@ textarea {
        padding: 0px;
        list-style: none;
        font-weight: bold;
-       display: inline-block;
        text-transform: uppercase;
        line-height:24px;
    }

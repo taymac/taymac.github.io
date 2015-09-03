@@ -123,7 +123,7 @@ textarea {
       list-style: none;
    }
    
-   .post.title a {
+   .post.title {
       font-size: 3em;
       font-weight: bold;
       color: #000;

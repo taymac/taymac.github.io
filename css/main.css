@@ -123,6 +123,12 @@ textarea {
       list-style: none;
    }
    
+   .post-title {
+    font-size: 3em;
+    font-weight: bold;
+    color: #000;
+   }
+   
    #headerleft a{
       color: #000;
    }

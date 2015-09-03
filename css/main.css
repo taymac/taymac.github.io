@@ -121,6 +121,7 @@ textarea {
    
    .blog-index ul {
       list-style: none;
+      padding: 0;
    }
    
    .post-title {

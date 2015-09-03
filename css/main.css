@@ -123,6 +123,10 @@ textarea {
        margin-right: 20px;
    }
    
+   .welcome {
+      margin: 150px 60px 150px 60px;
+   }
+   
    .blog-index ul {
       list-style: none;
       padding: 0;

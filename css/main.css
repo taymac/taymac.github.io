@@ -123,8 +123,12 @@ textarea {
        margin-right: 20px;
    }
    
+   .container {
+      margin: 100px 0 0 0;
+   }
+   
    .welcome {
-      margin: 150px 60px 150px 60px;
+      margin: 50px 60px 150px 60px;
    }
    
    .blog-index ul {
@@ -153,6 +157,7 @@ textarea {
    h1 {
        font-size: 3em;
        font-family: 'Lato', sans-serif;
+       text-align: center;
    }
    p {
        font-size: 1.2em;
@@ -163,6 +168,8 @@ textarea {
    
    p.meta {
     font-family: 'Lato', sans-serif;
+    text-align: center;
+    font-style: italic;
     font-size: 1em;
     margin: 0;
     color: #999;
@@ -172,7 +179,7 @@ textarea {
     border-bottom: 1px solid #333;
     content: "";
     display: block;
-    margin-bottom: 40px;
+    margin: 0 auto 40px auto;
     padding-bottom: 30px;
     width: 10%;
    
